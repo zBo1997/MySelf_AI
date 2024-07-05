@@ -1,7 +1,7 @@
 from openai import OpenAI
  
 client = OpenAI(
-    api_key = "sk-eKCosvolvzQ9neJRsjkVspre23XBZ2QKMjpUuxfg2gb2kF8H",
+    api_key = "",
     base_url = "https://api.moonshot.cn/v1",
 )
  
